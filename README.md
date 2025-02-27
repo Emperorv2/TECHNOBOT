@@ -129,7 +129,7 @@ python3 -m Technobot
 ```
 Get help regarding setting up 
 
-your 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 in our official 
+your Emperor in our official 
 
 support Group and get updates
 
@@ -152,7 +152,7 @@ notifications in Update Channel.
 
 Copyright (C) 2022 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥
 
-Poject [𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥](https://github.com/TECHNOBOY-OP/TECHNOBOT) is free software: you can redistribute it and/or modify
+Poject [𝕋he Emperor ](https://github.com/TECHNOBOY-OP/TECHNOBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
@@ -180,10 +180,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
   
 • Inspired from all the userbots available publically for telegram.
 
-• Motivated mainly by LEGENDBOT and Catuserbot.
+• Motivated mainly by EMPEROR and Catuserbot.
 
-• [LonamiWebs](https://github.com/LonamiWebs/Telethon) for Telethon.
-
-• [TECHNO](https://github.com/TECHNOBOT-OP):DEV
+• Annexed by EMPEROR 
 
 • Plugins credit goes to [LEGENDBOT](https://github.com/LEGEND-AI/LEGENDBOT)
