@@ -27,8 +27,8 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/TechnoBot_Support)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/TechnoBot_Updates)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/justlastdesire)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/justlastdesire)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
